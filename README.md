@@ -7,7 +7,9 @@
     the columns are;
                   Property_type: This column contains two types of property which are apartment and house 
                   place_with_parent_names: This column the country-state-city
-                  region: This column contains four region
-                  lat-lon
-                  area_m2
-                  price_usd
+                  region: This column contains five regions i.e NorthEast, South, North, SouthEast,CentralWest
+                  lat-lon: This column represent the latitude and longitude of each region
+                  area_m2: This column represent the size of each property in m2 
+                  price_usd: This column represent hthe price of each property.
+## Data Cleaning
+     The dataset had 4 csv file with the same data structure but different column heading 
